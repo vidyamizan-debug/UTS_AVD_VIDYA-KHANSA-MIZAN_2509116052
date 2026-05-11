@@ -2,6 +2,6 @@
 
 NAMA : VIDYA KHANSA MIZAN\
 KELAS : SISTEM INFORMASI B'2025\
-NIM : 2509116052\
+NIM : 2509116052
 
 LINK GOOGLE COLAB : https://colab.research.google.com/drive/1CKq5fzssaYU1oyWUJj4nXzxE23WFp6il?usp=sharing
